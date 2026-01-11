@@ -1,0 +1,7 @@
+Origin: DebTerm
+Label: DebTerm
+Suite: sid
+Codename: sid
+Architectures: amd64
+Components: main
+Description: Official DebTerm Repository
