@@ -2,7 +2,7 @@ Origin: DebTerm
 Label: DebTerm
 Suite: sid
 Codename: sid
-Date: Sun, 11 Jan 2026 15:55:00 UTC
+Date: Sun, 11 Jan 2026 08:00:00 UTC
 Architectures: x64pkg
 Components: main
 Description: Official DebTerm Repository (Isolated x64pkg Arch)
